@@ -28,3 +28,7 @@ Simple web player
 - Integrate decentralized storage
 - Improve streaming performance
 - Add creator dashboard
+## Development Update
+
+Initial prototype created for decentralized media streaming experiment.
+Testing media metadata storage and simple playback interface.

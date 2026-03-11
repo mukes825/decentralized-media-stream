@@ -1,0 +1,2 @@
+Streaming prototype initialized
+Testing distributed media metadata

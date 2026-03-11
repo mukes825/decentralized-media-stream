@@ -2,3 +2,4 @@
  "network":"test environment",
  "storage_mode":"distributed prototype"
 }
+"streaming_mode":"prototype"

@@ -1,0 +1,6 @@
+{
+ "name":"decentralized-media-stream",
+ "version":"1.0.0",
+ "description":"Web3 decentralized media streaming prototype",
+ "main":"server.js"
+}

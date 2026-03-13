@@ -12,3 +12,7 @@ function uploadMedia(title,type){
 }
 
 uploadMedia("Creator Demo Video","video");
+if (!title || !url) {
+ console.log("Invalid media upload")
+ return
+}

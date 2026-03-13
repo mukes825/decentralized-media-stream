@@ -1,2 +1,6 @@
 Streaming prototype initialized
 Testing distributed media metadata
+Server started: 2026-03-10
+Media uploaded: demo-video
+Streaming started: media_id=1
+Streaming stopped: media_id=1

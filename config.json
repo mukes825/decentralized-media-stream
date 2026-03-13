@@ -3,3 +3,9 @@
  "storage_mode":"distributed prototype"
 }
 "streaming_mode":"prototype"
+{
+ "streaming_mode": "experimental",
+ "max_streams": 10,
+ "log_streaming": true,
+ "version": "0.2"
+}

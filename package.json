@@ -4,3 +4,12 @@
  "description":"Web3 decentralized media streaming prototype",
  "main":"server.js"
 }
+{
+ "name": "decentralized-media-stream",
+ "version": "0.2.0",
+ "main": "server.js",
+ "scripts": {
+   "start": "node server.js",
+   "dev": "node server.js"
+ }
+}

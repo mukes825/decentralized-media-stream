@@ -14,3 +14,21 @@
  "title":"Web3 Creator Demo",
  "type":"video"
 }
+{
+ "media": [
+  {
+   "id": 1,
+   "title": "Demo Video",
+   "creator": "Mukesh",
+   "url": "sample.mp4",
+   "type": "video"
+  },
+  {
+   "id": 2,
+   "title": "Test Audio",
+   "creator": "Mukesh",
+   "url": "audio.mp3",
+   "type": "audio"
+  }
+ ]
+}

@@ -14,3 +14,4 @@ listMedia();
 app.get("/media", (req, res) => {
  res.sendFile(__dirname + "/media.json")
 })
+console.log("Streaming server running")

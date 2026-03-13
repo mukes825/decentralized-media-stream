@@ -11,3 +11,6 @@ function listMedia(){
 }
 
 listMedia();
+app.get("/media", (req, res) => {
+ res.sendFile(__dirname + "/media.json")
+})

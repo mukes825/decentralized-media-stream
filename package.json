@@ -1,15 +1,23 @@
 {
- "name":"decentralized-media-stream",
- "version":"1.0.0",
- "description":"Web3 decentralized media streaming prototype",
- "main":"server.js"
-}
-{
- "name": "decentralized-media-stream",
- "version": "0.2.0",
- "main": "server.js",
- "scripts": {
-   "start": "node server.js",
-   "dev": "node server.js"
- }
+  "name": "decentralized-media-stream",
+  "version": "0.3.0",
+  "description": "Web3 decentralized media streaming prototype with experimental distributed storage",
+  "main": "server.js",
+
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"No tests yet\""
+  },
+
+  "keywords": [
+    "web3",
+    "media",
+    "streaming",
+    "decentralized",
+    "blockchain"
+  ],
+
+  "author": "Aman",
+  "license": "MIT"
 }

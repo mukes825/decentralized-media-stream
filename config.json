@@ -1,11 +1,14 @@
 {
- "network":"test environment",
- "storage_mode":"distributed prototype"
-}
-"streaming_mode":"prototype"
-{
- "streaming_mode": "experimental",
- "max_streams": 10,
- "log_streaming": true,
- "version": "0.2"
+  "network": "test environment",
+  "storage_mode": "distributed prototype",
+  "streaming_mode": "experimental",
+
+  "max_streams": 10,
+  "log_streaming": true,
+
+  "stream_quality": "auto",
+  "supported_formats": ["mp4", "mp3", "webm"],
+
+  "version": "0.3",
+  "lastUpdated": "2026-03-21"
 }

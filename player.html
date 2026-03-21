@@ -1,21 +1,55 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Decentralized Media Player</title>
+  <meta charset="UTF-8">
+  <title>Decentralized Media Player</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #fff;
+      text-align: center;
+      padding: 30px;
+    }
+
+    h1 {
+      margin-bottom: 10px;
+    }
+
+    .player-container {
+      background: #1e293b;
+      padding: 20px;
+      border-radius: 12px;
+      display: inline-block;
+      box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    }
+
+    video {
+      width: 600px;
+      border-radius: 10px;
+    }
+
+    p {
+      color: #cbd5f5;
+      margin-top: 10px;
+    }
+  </style>
 </head>
+
 <body>
 
-<h2>Media Streaming Demo</h2>
+  <h1>🎬 Decentralized Media Player</h1>
+  <p>Experimental Web3 streaming interface using distributed storage concepts.</p>
 
-<video width="480" controls>
-<source src="sample.mp4" type="video/mp4">
-</video>
+  <div class="player-container">
+    <video controls>
+      <source src="sample.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <p>🔗 Future: IPFS-based streaming | Wallet-based access control</p>
 
 </body>
 </html>
-<p>Experimental decentralized media streaming interface.</p>
-<h2>Decentralized Media Player</h2>
-
-<video width="600" controls>
-  <source src="sample.mp4" type="video/mp4">
-</video>
